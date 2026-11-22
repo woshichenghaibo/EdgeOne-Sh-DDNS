@@ -1,8 +1,7 @@
 # EdgeOne-Sh-DDNS
 应用在openwrt服务器上的腾讯CDN edge one 服务的ddns bash脚本。仅测试成功IPV6
 
-
-可以。下面这份教程统一使用 **`abc.com`** 和 **`www.abc.com`** 作为示例，不再出现你的真实域名。脚本中的密钥、站点 ID、源站组 ID 全部用占位符表示，需要你按步骤替换。
+下面这份教程统一使用 **`abc.com`** 和 **`www.abc.com`** 作为示例，脚本中的密钥、站点 ID、源站组 ID 全部用占位符表示，需要你按步骤替换。
 
 ---
 
